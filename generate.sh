@@ -18,7 +18,3 @@ pandoc $1 -o $2 \
   --number-sections \
   --top-level-division=chapter \
   --highlight-style tango
-
-if [ $? -eq 0 ]; then
-  evince $2
-fi

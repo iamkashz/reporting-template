@@ -6,7 +6,7 @@ Needs Pandoc, Latex and Eisvogel Pandoc LaTeX PDF Template
 
 ```bash
 sudo apt install pandoc texlive-full
-sudo wget https://github.com/Wandmalfarbe/pandoc-latex-template/blob/master/eisvogel.tex -O /usr/share/pandoc/data/templates/eisvogel.tex
+sudo wget https://github.com/Wandmalfarbe/pandoc-latex-template/blob/master/eisvogel.tex -O /usr/share/pandoc/data/templates/eisvogel.latex
 ```
 
 ## Usage
